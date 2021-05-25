@@ -1,0 +1,18 @@
+{
+   
+    "info": {
+        "url_png_icon_64x64": "http(s) url to pool icon; not animated; max 40kb",
+        "url_png_logo": "http(s) url to pool logo; not animated; max 50kb",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "@BrisNodeAU",
+            "telegram_handle": "Sudo@Brisnode",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        }
+       
+    }
+}
